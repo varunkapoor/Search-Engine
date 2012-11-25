@@ -1,0 +1,10 @@
+This repository contains a simple search engine code. It is designed to crawl a youtube playlist and index the 
+title, description and captions of the videos in the playlist.
+
+some salient features are:
+
+* It is built with the Bottle web framework and designed to run on Google App Engine.
+
+* The web crawler script udacity_crawler.py uses BeautifulSoup, an HTML parsing library.
+
+* The Robot Exclusion Rules parser.
